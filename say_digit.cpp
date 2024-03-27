@@ -13,7 +13,7 @@ void say_digit(int n,string arr[])
 }
 int main()
 {
-    string arr[10] = {"zero","one","two","three","four","five","six","seven","eight","nine",};
+    string arr[10] = {"zero","one","two","three","four","five","six","seven","eight","nine"};
     int n;
     cin>>n;
     say_digit(n,arr);
